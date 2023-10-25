@@ -1,0 +1,14 @@
+E:\Projects\random stuff\gptSnake\gptSnake\bin\Debug\net6.0\gptSnake.exe
+E:\Projects\random stuff\gptSnake\gptSnake\bin\Debug\net6.0\gptSnake.deps.json
+E:\Projects\random stuff\gptSnake\gptSnake\bin\Debug\net6.0\gptSnake.runtimeconfig.json
+E:\Projects\random stuff\gptSnake\gptSnake\bin\Debug\net6.0\gptSnake.dll
+E:\Projects\random stuff\gptSnake\gptSnake\bin\Debug\net6.0\gptSnake.pdb
+E:\Projects\random stuff\gptSnake\gptSnake\obj\Debug\net6.0\gptSnake.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\random stuff\gptSnake\gptSnake\obj\Debug\net6.0\gptSnake.AssemblyInfoInputs.cache
+E:\Projects\random stuff\gptSnake\gptSnake\obj\Debug\net6.0\gptSnake.AssemblyInfo.cs
+E:\Projects\random stuff\gptSnake\gptSnake\obj\Debug\net6.0\gptSnake.csproj.CoreCompileInputs.cache
+E:\Projects\random stuff\gptSnake\gptSnake\obj\Debug\net6.0\gptSnake.dll
+E:\Projects\random stuff\gptSnake\gptSnake\obj\Debug\net6.0\refint\gptSnake.dll
+E:\Projects\random stuff\gptSnake\gptSnake\obj\Debug\net6.0\gptSnake.pdb
+E:\Projects\random stuff\gptSnake\gptSnake\obj\Debug\net6.0\gptSnake.genruntimeconfig.cache
+E:\Projects\random stuff\gptSnake\gptSnake\obj\Debug\net6.0\ref\gptSnake.dll
